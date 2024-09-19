@@ -1,16 +1,16 @@
-# Kivy Calculator App
+# Build a Temperature Conversion Program
 
 ## Description
-
-Calculator App: A simple, intuitive, and easy-to-use app is created using a Python framework for developing multitouch applications, and uix extension to Kivy providing Material Design components & themes. The app allows users to perform Basic arithmetic operations , Supports decimal numbers and Clear and intuitive interface.
-
+Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. For example, if the user enters a temperature of 25 degrees Celsius, the program should convert it to Fahrenheit and Kelvin, and present the converted values as outputs.
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division, power and percentage.
-- Supports decimal numbers and calculations.
-- Clear and intuitive interface.
-- Responsive design for various screen sizes
-- Built with Python and Kivy library for cross-platform compatibility
+- User Input Handling
+- Unit Conversion Functions
+- Conversion Formulas
+- Result Display
+- Error Handling
+- Main Function
+
 
 
 ## Installation and Usage
@@ -18,16 +18,9 @@ Calculator App: A simple, intuitive, and easy-to-use app is created using a Pyth
 1. Clone this repository:
 
    ```bash
-   https://github.com/Kumar-Arun-coder/PRODIGY_AD_01
+   https://github.com/Kruthickroshan/PRODIGY_SD_01
    ```
-
-2. Install dependencies using pip:
-
-   ```bash
-   pip install kivy 
-   ```
-
-3. Run the application:
+2. Run the application:
 
    ```bash
    python main.py
@@ -36,6 +29,7 @@ Calculator App: A simple, intuitive, and easy-to-use app is created using a Pyth
 4. Add, manage, and track your tasks using the intuitive UI.
 
 ## Screenshots
-
+(![Screenshot 2024-09-19 143705](https://github.com/user-attachments/assets/f02b2309-52a9-4620-b23f-3a4ad9f1adc3)
+)
 
 
